@@ -1,4 +1,4 @@
-# Data Structures in C++ – Advanced Academic Coursework
+# Data Structures in C++ Advanced Academic Coursework
 
 This repository contains a collection of assignments completed as part of an advanced Data Structures course in C++. The course focuses on the design, implementation, and analysis of fundamental and advanced data structures, with an emphasis on efficiency, memory management, and algorithmic thinking.
 
